@@ -1,8 +1,8 @@
 package com.webcargo.webcargo.service;
 
-import com.webcargo.entities.Order;
-import com.webcargo.repository.OrderRepository;
-import com.webcargo.service.implemitation.OrderServiceImpl;
+import com.webcargo.webcargo.entities.Order;
+import com.webcargo.webcargo.repository.OrderRepository;
+import com.webcargo.webcargo.service.implemitation.OrderServiceImpl;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
